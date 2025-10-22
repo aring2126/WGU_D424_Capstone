@@ -31,7 +31,7 @@ Goal Tracker is a simple Android application for tracking personal goals, develo
 
 This app stores all data locally on your device. No information is collected or transmitted.
 
-[Privacy Policy](privacypolicy.md)
+[Privacy Policy](privacy-policy.html)
 
 ## Academic Project
 
