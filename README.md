@@ -6,7 +6,7 @@ Goal Tracker is a simple Android application for tracking personal goals, develo
 
 ## Download
 
-[**Download APK (v1.0.0)**](releases/goal-tracker-v1.0.apk)
+[**Download APK (v1.0.0)**](app-release.apk)
 
 **Requirements:** Android 5.0 or higher
 
