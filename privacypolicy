@@ -1,0 +1,131 @@
+# Privacy Policy for Goal Tracker
+
+**Effective Date:** 10/21/25  
+**Last Updated:** 10/21/25
+
+## Introduction
+
+Welcome to Goal Tracker ("the App"), a personal goal tracking application developed by Andrew Ring ("we," "us," or "our") as part of an academic capstone project at Western Governors University. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+
+We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle your data when you use our app and tell you about your privacy rights.
+
+## Information We Collect
+
+### Information You Provide Directly
+
+When you use Goal Tracker, you may provide the following information:
+- Goal titles and descriptions
+- Task titles and descriptions
+- Start and end dates for goals and tasks
+- Goal and task categories
+- Alert preferences and notification settings
+- Progress tracking information
+
+### Information Collected Automatically
+
+The App collects minimal technical information:
+- Device type and model
+- Operating system version
+- App version
+- Crash reports and performance data (if the app crashes)
+
+### Information We Do NOT Collect
+
+Goal Tracker does NOT collect:
+- Personal identification information (name, email, phone number)
+- Location data
+- Contact information
+- Photos or media files
+- Network or internet usage data
+- Financial information
+- Health or fitness data beyond goal titles you choose to enter
+
+## How We Use Your Information
+
+All data in Goal Tracker is stored **locally on your device only**. We use your information solely to:
+- Display your goals and tasks within the app
+- Calculate progress and completion statistics
+- Generate reports based on your goal data
+- Send local notifications (if enabled) for goal reminders
+- Provide the core functionality of goal and task tracking
+
+## Data Storage and Security
+
+### Local Storage Only
+- **All your data is stored locally** on your Android device using Room database
+- **No cloud synchronization** - your data never leaves your device
+- **No external servers** - we do not operate or use any external servers
+- **No data transmission** - your goal data is never transmitted over the internet
+
+### Security Measures
+- Data is stored in Android's application sandbox, protected by Android's security model
+- Each app installation has its own isolated data storage
+- Data is protected by your device's security features (lock screen, encryption)
+- Input validation and sanitization prevent malicious data entry
+
+## Data Sharing and Disclosure
+
+**We do not share your data with anyone** because:
+- All data remains on your device
+- We have no access to your data
+- No third-party services are integrated
+- No analytics or tracking services are used
+- No advertising networks are integrated
+
+The only exception is when you explicitly choose to share a report using Android's share functionality, which is entirely under your control.
+
+## Your Rights and Choices
+
+You have complete control over your data:
+
+### Data Access
+- View all your data directly within the app
+- Export your data via the Reports feature
+
+### Data Deletion
+- Delete individual goals or tasks at any time
+- Uninstalling the app completely removes all data
+- Clear app data through Android Settings to remove all information
+
+### Notifications
+- Control notification preferences within the app
+- Disable notifications through Android Settings at any time
+
+## Children's Privacy
+
+Goal Tracker does not knowingly collect information from children under 13 years of age. The app is designed for general use and does not target children. If you are a parent or guardian and believe your child has provided information to the app, you can delete it by uninstalling the application.
+
+## Data Retention
+
+Your data is retained on your device until:
+- You manually delete specific goals or tasks
+- You clear the app's data through Android Settings
+- You uninstall the application
+
+We do not have access to your data and cannot retrieve it if deleted.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be reflected in the updated policy with a new "Last Updated" date. For significant changes, we may provide additional notice within the app.
+
+We advise you to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted.
+
+## Academic Project Disclosure
+
+This application was developed as part of a Software Engineering Capstone project (D424) at Western Governors University. It is primarily intended for educational evaluation and demonstration purposes.
+
+## Contact Information
+
+If you have any questions or concerns about this Privacy Policy or the Goal Tracker app, please contact:
+
+**Developer:** Andrew Ring  
+**Institution:** Western Governors University  
+**Course:** Software Engineering Capstone (D424)  
+**Email:** aring2126@wgu.edu
+## Consent
+
+By using Goal Tracker, you consent to this Privacy Policy and agree to its terms.
+
+---
+
+*This privacy policy template is compliant with general privacy requirements and is suitable for an Android application that stores data locally only.*
